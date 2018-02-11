@@ -39,7 +39,7 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:1157
+Cursor/Line:130
 Cursor/Column:0
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
@@ -180,22 +180,13 @@ Words/10:orcs
 Words/11:pubg
 Words/12:weebs
 #End-Spell-Checker-Dict 
-#Title-String 0.000000,105.000000,24,cb,Helvetica,,UNTITLED SCREENPLAY
-#Title-String 0.000000,120.460000,12,c,Courier,,by\n\nMy Name Here
-#Title-String 15.000000,248.460000,12,,Courier,,123/456-7890\nno.such@thing.com
+#Title-String 0.000000,105.000000,24,cb,Helvetica,,Mad Matthew
+#Title-String 0.000000,124.690000,12,c,Courier,,by\n\nMez\n
+#Title-String 15.000000,248.460000,12,,Courier,,530-756-4491\nmezclone@gmail.com
 #Header-String 1,0,r,,${PAGE}.
 #Header-Empty-Lines 1
 #Start-Script 
-.\Writen by mez
-..Mad Matthew episode 1 screen play.
-..
-..
-..
-..
-..
-..
-..
-..Int. A hill with a bowl in the middle-day
+.\EXT. A hill with a bowl in the middle-day
 >.Around the hill is a PUBG like border. There are six people
 >.behind a cover in the middle of the hill, and six other
 >.people firing AK-47s and other guns at them from the north,
@@ -285,8 +276,8 @@ Words/12:weebs
 >.The man in the gas mask drops the axe and begins to flip off
 >.the people in the bowl.  As he does there is a battle
 ..scream.
-.\cut to black
-.\Int. A hill with a bowl in the middle-day
+./cut to black
+.\EXT. A HILL WITH A BOWL IN THE MIDDLE-DAY
 >.All the bike riders race down the hill to the people in the
 >.bowl.The man in the gas mask runs down the hill with the
 >.axe. He hacks a guy with the axe  who is holding an AK-47
@@ -471,7 +462,7 @@ Words/12:weebs
 .:around them!
 ._RIDER
 .:That works.
-.\INT. Field 
+.\EXT. Field 
 ..The bike riders are riding in box form around the prisoners.
 ._DEADMAN
 .:Hey mask man!
@@ -506,7 +497,7 @@ Words/12:weebs
 ._MASK
 >:(voice is muffled a little because
 .:of the gas mask) To lord gone.
-.\INT. Lord gone's base
+.\EXT. Lord gone's base
 ..Lord gone's base is just a house.
 ._MASK
 >:(voice is muffled a little because
@@ -650,7 +641,6 @@ Words/12:weebs
 ._TOMMY
 >:We were at the part were weeb says 
 .:"Yes but Tommy played Jonny."
-._
 ._MASK
 .:Ok start from there.
 ._FILM CREW PERSON 1.
@@ -861,7 +851,6 @@ Words/12:weebs
 ._WEEB
 >:(nerdy voice )  How about we check
 .:if the bunker is under the house.
-.:
 ._STELLA
 >:No that can't work.  Cause if we
 >:check it can't be there because if
@@ -870,7 +859,6 @@ Words/12:weebs
 .:were it can't be.
 ._WEEB
 .((nerdy voice) What?
-.:
 ._STELLA
 >:If we find it why would one of us
 .:go back?
@@ -1009,8 +997,8 @@ Words/12:weebs
 >.We see that the time thing is on the ground also there is a
 >.bomb. Stella grabs the time thing and mask, stella, dead
 >.man, tommy and Lisa leave the shot. We see a hand grab the
-..bomb.
-.\INT. LORD GONE'S BASE Garage
+..bomb. And replaces it.
+.\ext. LORD GONE'S BASE Garage
 ..Mask is unlocking five bikes
 ._MASK
 >:(voice is muffled a little because
@@ -1099,7 +1087,6 @@ Words/12:weebs
 >((very mad) Ready the
 >(bikes. We will go after
 .(them.
-.(
 ._RIDER
 .:But what about the prisoners?
 ._LORD GONE
@@ -1115,7 +1102,7 @@ Words/12:weebs
 >.matthew. They tie up dead man first then person 3 when it
 >.gets to matthews turn. Matthew pushes one of the riders to
 ..the ground. Then he kicks another and runs out of the room.
-.\INT. LORD GONE'S BASE GARAGE
+.\EXT. LORD GONE'S BASE GARAGE
 >.Matthew runs into the garage. Three other riders are working
 >.on so bikes. There are bike parts, tools, Duck tape, fash
 >.lights, a bucket of water, a bike tire and a bottle of bike
@@ -1135,7 +1122,6 @@ Words/12:weebs
 ._BIKE RIDER 4
 .:Stop him. He's a prisoner!
 ..Bike rider 1 , 2 , 3 and 4 run at matthew and catch him.
-..
 ._BIKE RIDER 1
 .:We got you now!
 ._BIKE RIDER 2
@@ -1297,7 +1283,7 @@ Words/12:weebs
 .:Ah?
 ._LORD GONE
 .:Let's ride!
-..CUT: to field.
+.\EXT. FIELD 
 ._STELLA
 .:How long do you guys need to rest?
 ._LISA
@@ -1337,7 +1323,6 @@ Words/12:weebs
 >(too and there is a
 >(bigger war party on the
 .(way!
-.:
 ._LISA
 .:Oh no!
 >.The war party looks like mad max fury road but with bikes
