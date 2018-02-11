@@ -1,0 +1,1346 @@
+﻿#Version 3
+#Begin-Auto-Completion 
+AutoCompletion/Scene/Enabled:True
+AutoCompletion/Scene/Items:0
+AutoCompletion/Character/Enabled:True
+AutoCompletion/Character/Items:0
+AutoCompletion/Transition/Enabled:True
+AutoCompletion/Transition/Items:12
+AutoCompletion/Transition/Items/1:BACK TO:
+AutoCompletion/Transition/Items/2:CROSSFADE:
+AutoCompletion/Transition/Items/3:CUT TO:
+AutoCompletion/Transition/Items/4:DISSOLVE TO:
+AutoCompletion/Transition/Items/5:FADE IN:
+AutoCompletion/Transition/Items/6:FADE OUT
+AutoCompletion/Transition/Items/7:FADE TO BLACK
+AutoCompletion/Transition/Items/8:JUMP CUT TO:
+AutoCompletion/Transition/Items/9:MATCH CUT TO:
+AutoCompletion/Transition/Items/10:SLOW FADE TO BLACK
+AutoCompletion/Transition/Items/11:SMASH CUT TO:
+AutoCompletion/Transition/Items/12:TIME CUT:
+#End-Auto-Completion 
+#Begin-Config 
+FontSize:12
+Margin/Bottom:25.40
+Margin/Left:38.10
+Margin/Right:25.40
+Margin/Top:12.70
+Paper/Height:297.00
+Paper/Width:210.00
+PageBreakActionLines:2
+PageBreakDialogueLines:2
+SceneContinueds:False
+SceneContinuedIndent:45
+ShowSceneNumbers:False
+IncludeTOC:True
+ShowTOC:True
+OpenOnCurrentPage:True
+RemoveNotes:False
+OutlineNotes:True
+ShowMargins:False
+ShowLineNumbers:False
+Cursor/Line:1157
+Cursor/Column:0
+String/MoreDialogue:(MORE)
+String/ContinuedPageEnd:(CONTINUED)
+String/ContinuedPageStart:CONTINUED:
+String/DialogueContinued: (cont'd)
+Element/Scene/BeforeSpacing:10
+Element/Scene/IntraSpacing:0
+Element/Scene/Indent:0
+Element/Scene/Width:60
+Element/Scene/Screen/AllCaps:True
+Element/Scene/Screen/Bold:True
+Element/Scene/Screen/Italic:False
+Element/Scene/Screen/Underlined:False
+Element/Scene/Export/AllCaps:True
+Element/Scene/Export/Bold:False
+Element/Scene/Export/Italic:False
+Element/Scene/Export/Underlined:False
+Element/Action/BeforeSpacing:10
+Element/Action/IntraSpacing:0
+Element/Action/Indent:0
+Element/Action/Width:60
+Element/Action/Screen/AllCaps:False
+Element/Action/Screen/Bold:False
+Element/Action/Screen/Italic:False
+Element/Action/Screen/Underlined:False
+Element/Action/Export/AllCaps:False
+Element/Action/Export/Bold:False
+Element/Action/Export/Italic:False
+Element/Action/Export/Underlined:False
+Element/Character/BeforeSpacing:10
+Element/Character/IntraSpacing:0
+Element/Character/Indent:22
+Element/Character/Width:38
+Element/Character/Screen/AllCaps:True
+Element/Character/Screen/Bold:False
+Element/Character/Screen/Italic:False
+Element/Character/Screen/Underlined:False
+Element/Character/Export/AllCaps:True
+Element/Character/Export/Bold:False
+Element/Character/Export/Italic:False
+Element/Character/Export/Underlined:False
+Element/Dialogue/BeforeSpacing:0
+Element/Dialogue/IntraSpacing:0
+Element/Dialogue/Indent:10
+Element/Dialogue/Width:35
+Element/Dialogue/Screen/AllCaps:False
+Element/Dialogue/Screen/Bold:False
+Element/Dialogue/Screen/Italic:False
+Element/Dialogue/Screen/Underlined:False
+Element/Dialogue/Export/AllCaps:False
+Element/Dialogue/Export/Bold:False
+Element/Dialogue/Export/Italic:False
+Element/Dialogue/Export/Underlined:False
+Element/Parenthetical/BeforeSpacing:0
+Element/Parenthetical/IntraSpacing:0
+Element/Parenthetical/Indent:16
+Element/Parenthetical/Width:25
+Element/Parenthetical/Screen/AllCaps:False
+Element/Parenthetical/Screen/Bold:False
+Element/Parenthetical/Screen/Italic:False
+Element/Parenthetical/Screen/Underlined:False
+Element/Parenthetical/Export/AllCaps:False
+Element/Parenthetical/Export/Bold:False
+Element/Parenthetical/Export/Italic:False
+Element/Parenthetical/Export/Underlined:False
+Element/Transition/BeforeSpacing:10
+Element/Transition/IntraSpacing:0
+Element/Transition/Indent:45
+Element/Transition/Width:20
+Element/Transition/Screen/AllCaps:True
+Element/Transition/Screen/Bold:False
+Element/Transition/Screen/Italic:False
+Element/Transition/Screen/Underlined:False
+Element/Transition/Export/AllCaps:True
+Element/Transition/Export/Bold:False
+Element/Transition/Export/Italic:False
+Element/Transition/Export/Underlined:False
+Element/Shot/BeforeSpacing:10
+Element/Shot/IntraSpacing:0
+Element/Shot/Indent:0
+Element/Shot/Width:60
+Element/Shot/Screen/AllCaps:True
+Element/Shot/Screen/Bold:False
+Element/Shot/Screen/Italic:False
+Element/Shot/Screen/Underlined:False
+Element/Shot/Export/AllCaps:True
+Element/Shot/Export/Bold:False
+Element/Shot/Export/Italic:False
+Element/Shot/Export/Underlined:False
+Element/Note/BeforeSpacing:10
+Element/Note/IntraSpacing:0
+Element/Note/Indent:5
+Element/Note/Width:55
+Element/Note/Screen/AllCaps:False
+Element/Note/Screen/Bold:False
+Element/Note/Screen/Italic:True
+Element/Note/Screen/Underlined:False
+Element/Note/Export/AllCaps:False
+Element/Note/Export/Bold:False
+Element/Note/Export/Italic:True
+Element/Note/Export/Underlined:False
+Element/Act break/BeforeSpacing:10
+Element/Act break/IntraSpacing:0
+Element/Act break/Indent:25
+Element/Act break/Width:10
+Element/Act break/Screen/AllCaps:True
+Element/Act break/Screen/Bold:True
+Element/Act break/Screen/Italic:False
+Element/Act break/Screen/Underlined:True
+Element/Act break/Export/AllCaps:True
+Element/Act break/Export/Bold:False
+Element/Act break/Export/Italic:False
+Element/Act break/Export/Underlined:True
+Font/Bold-Italic/Name:
+Font/Bold-Italic/Filename:
+Font/Bold/Name:
+Font/Bold/Filename:
+Font/Italic/Name:
+Font/Italic/Filename:
+Font/Normal/Name:
+Font/Normal/Filename:
+#End-Config 
+#Begin-Locations 
+Locations:0
+#End-Locations 
+#Begin-Spell-Checker-Dict 
+Words:12
+Words/1:47s
+Words/2:ak
+Words/3:aks
+Words/4:cazy
+Words/5:dum
+Words/6:dungeins
+Words/7:gunna
+Words/8:jonny
+Words/9:mez
+Words/10:orcs
+Words/11:pubg
+Words/12:weebs
+#End-Spell-Checker-Dict 
+#Title-String 0.000000,105.000000,24,cb,Helvetica,,UNTITLED SCREENPLAY
+#Title-String 0.000000,120.460000,12,c,Courier,,by\n\nMy Name Here
+#Title-String 15.000000,248.460000,12,,Courier,,123/456-7890\nno.such@thing.com
+#Header-String 1,0,r,,${PAGE}.
+#Header-Empty-Lines 1
+#Start-Script 
+.\Writen by mez
+..Mad Matthew episode 1 screen play.
+..
+..
+..
+..
+..
+..
+..
+..Int. A hill with a bowl in the middle-day
+>.Around the hill is a PUBG like border. There are six people
+>.behind a cover in the middle of the hill, and six other
+>.people firing AK-47s and other guns at them from the north,
+..and they are firing back.
+>.We see the last of their shots fired and hear a clicking
+..sound.
+._TOMMY
+.:That's my last shot.
+._Lisa
+.:Were out of ammo!
+._Matthew
+>:My name is Matthew.  Once I was a
+.:cop.
+._Deadman
+.:No you weren't!
+._MATTHEW
+.:As the world fell.
+._DEADMAN
+.:It did?
+._MATTHEW
+>:Each of us in our own way was
+.:broken.
+._DEADMAN
+.:What?
+._MATTHEW
+>:It was hard to know who was more
+.:crazy, me or them.
+._DEADMAN
+>:Who's crazy? Were all fine in the
+.:mind!
+._MATTHEW
+>:I am the one who runs from both the
+.:living and the dead.
+._DEADMAN
+>:We're living. Your not running. And
+.:how can you run from the dead?
+._MATTHEW
+>:Haunted by the ones I could not
+.:save.
+._DEADMAN
+>:Who could you not save?  None of us
+>:have died.  And who the hell are
+.:you talking to?
+._MATTHEW
+.:A man with one instinct.  Survive!
+._DEADMAN
+>:Yes survive!  Stop the freaking
+.:monologue!
+._Danny
+.:Were all gunna die!
+._TOMMY
+.((shouting)
+>:Why?  Why?  Why is this happening
+.:to me!
+._DANNY
+.:STELLAAAAAA!
+._Stella
+.:WHAAAAAAT?
+._DANNY
+.:You got a sword or something?
+._STELLA
+>:Why would I have a sword?  Does it
+.:look like I have a sword?
+._DANNY
+.:No.
+._STELLA
+.:Well, I do have a baseball bat.
+>.The people to north have started to move into the bowl.  One
+..is still up the hill.
+._LISA
+.:They're coming.
+>.Danny takes the baseball bat from Stella and charges the
+>.people with it.  Battle music plays.  Then the music stops
+..as Danny is shot six times in the chest.  He falls dead.
+..Deadman stands up.
+._DEADMAN
+.:Oh my god, they killed Danny!
+..Deadman is shot and falls back screaming.
+..We hear mad sounding bass music.
+..Every one in the bowl looks around.
+..Camera is now on the bass player he is wearing a mask.
+..We then hear a loud scream.  Everyone now looks north. 
+>.The person on the hill is dead, and a man in a gas mask,
+>.leather jacket, and blue jeans is standing over the body
+..with a bloody axe.
+..Twelve bike riders ride to the edge of the bowl in the hill.
+>.The man in the gas mask drops the axe and begins to flip off
+>.the people in the bowl.  As he does there is a battle
+..scream.
+.\cut to black
+.\Int. A hill with a bowl in the middle-day
+>.All the bike riders race down the hill to the people in the
+>.bowl.The man in the gas mask runs down the hill with the
+>.axe. He hacks a guy with the axe  who is holding an AK-47
+>.the guy fall off camera screaming.The man in the mask keeps
+..hacking at the guy who is off screen
+._Mask
+>:(voice is muffled a little because
+.:of the gas mask) Why won't you die!
+>.He then lifts the axe over his aiming for the guys head MASK
+..swings his axe down and we hear a load crack.
+._MASK
+>:(voice is muffled a little because
+>:of the gas mask) Oh boy! That broke
+.:his skull right open! Ha! Ha!
+>.He tries to take his axe out of the guys head. ( body has
+..been off screen the hole time) He is having trouble.
+._MASK
+>:(voice is muffled a little because
+>:of the gas mask) Man! It is deep in
+.:there!
+>.There is a person behind him. They are holding an AK-47 and
+..aiming at mask. We hear a gun loading sound
+._Person 1
+.:Freeze! Stop right there!
+..Mask turns around.
+._PERSON 1
+.:I said freeze!
+..Mask reaches for a shot gun on his belt.
+._PERSON 1
+.:Die mad man!
+>. person 1 tries to fire we hear a clicking sound. (the sound
+..a gun makes when it is out of ammo)
+._MASK
+>:(voice is muffled a little because
+>:of the gas mask)   Well it looks
+.:like your out of ammo!
+..MASK is aim his shot gun at person 1.
+._MASK
+>:(voice is muffled a little because
+>:of the gas mask) Too bad! Better
+.:luck next time!
+..Person 1 runs at Mask.
+._MASK
+>:(voice is muffled a little because
+>:of the gas mask) Oh you want a
+.:fight?   Ok!
+..Mask drops his shot gun and runs at person 1.
+..Mask and Person 1 fight.
+>.Mask see that person 2 is aiming there AK-47 at him. He
+>.grabs person 1 and uses them as a human shield. Person 2
+>.fires there AK-47 and hits person 1 they are dead. Person 2
+>.keeps firing until we hear a clicking sound. Mask drops the
+..dead body of person 1.
+._MASK
+>:(voice is muffled a little because
+>:of the gas mask) Well your out of
+>:ammo too. And how did you guys get
+.:so many AKs?
+>.Mask runs at person 2 and kick them to the ground. He the
+>.picks up his shot gun and shoots person 2 in the chest the
+..are dead.
+._Noname
+.:Mask you done?
+._MASK
+>:(voice is muffled a little because
+>:of the gas mask) Yes. Lets see
+.:these prisoners!
+>.Everyone mask didn't kill have been taken prisoner by the
+>.bike riders. There are eight prisoners tommy, stela,lisa,
+..matthew, deadman, person 3 and person 4.
+._MASK
+>:(voice is muffled a little because
+>:of the gas mask) Now tell me how
+>:does it come to be that twelve
+>:people in new cloths and with new
+.:weapons and some with  Aks?
+._Person 4
+.:And why should we tell you?
+._Mask
+>:(voice is muffled a little because
+>:of the gas mask) Cause Killer here
+.:is going to kill you!
+._Killer
+.:That's right!
+._PERSON 4
+.:That's your name killer?
+._KILLER
+.:Yep!
+._PERSON 4
+>:The first name your parents thought
+.:of is killer?
+._KILLER
+.:Yes?
+._MASK
+>:(voice is muffled a little because
+>:of the gas mask) Killer kill this
+.:person!
+._KILLER
+.:Ok!
+>.Killer takes out a knife and stabs person 4 in the heart
+..they fall dead.
+._MASK
+>:(voice is muffled a little because
+>:of the gas mask) Now tell why your
+.:here?
+._Person 3
+>:Cause some rich jerk dropped us out
+>:of a plane and gave us map with
+.:were he would pick six of us up.
+._NONAME
+>:And when is going to do this pick
+.:up?
+._PERSON 3
+.:In a six days!
+._MASK
+>:(voice is muffled a little because
+.:of the gas mask) Is this true?
+._LISA
+.:It's true!
+._NONAME
+.:Were are you from?
+._LISA
+.:New York.
+._TOMMY
+.:New York.
+._DEADMAN
+.:New York.
+._PERSON 3
+.:New york.
+._NONAME
+.:We get it your all from New York!
+._MATTHEW
+.:Not me I am from New Mexico.
+._Rider
+>:So you know what happened to West
+.:coast states?
+._MATTHEW
+.:Yes!
+._RIDER
+.:Ok!
+._MATTHEW
+>:My name is Matthew.  Once I was a
+.:cop.
+._Deadman
+.:No you weren't!
+._MATTHEW
+.:As the world fell.
+._STELLA
+.:It did?
+._RIDER
+.:Yes the world fell.
+._MATTHEW
+>:Each of us in our own way was
+.:broken.
+._NONAME
+.:Yes broken.
+._STELLA
+.:What?
+._MATTHEW
+>:It was hard to know who was more
+.:crazy, me or them.
+._MASK
+>:(voice is muffled a little because
+.:of the gas mask) Me! Ha! Ha!
+._DEADMAN
+.:Stop the monologue!
+._STELLA
+.:Stop saying, "Stop the monologue!"
+._MASK
+>:(voice is muffled a little because
+.:of the gas mask) We ride now!
+._RIDER
+.:But how do we move them?
+._MASK
+>:(voice is muffled a little because
+>:of the gas mask) They will run with
+.:us!
+._RIDER
+.:What stops them from running?
+._NONAME
+>:All of us will ride in a box form
+.:around them!
+._RIDER
+.:That works.
+.\INT. Field 
+..The bike riders are riding in box form around the prisoners.
+._DEADMAN
+.:Hey mask man!
+._MASK
+>: (voice is muffled a little because
+.:of the gas mask)  What?
+._DEADMAN
+>:Are you in command over all of the
+.:rides?
+._MASK
+>: (voice is muffled a little because
+>:of the gas mask) Only Noname and
+>:Killer everyone else is a rider of
+.:Lord Gone of the life lands!
+._DEADMAN
+.:Who is Lord gone of the life lands?
+._RIDER
+>:Lord Gone of the life lands, King
+>:of the mad, eater of the living and
+.:slaver of the weak.
+._LISA
+.:He sounds insane!
+._RIDER
+>:Oh he's mad and if your not with
+.:him your a dead man walking.
+._KILLER
+.:You with him or I kill you.
+._STELLA
+.:Well that sound nice!
+._MATTHEW
+.:Were are you taking us?
+._MASK
+>:(voice is muffled a little because
+.:of the gas mask) To lord gone.
+.\INT. Lord gone's base
+..Lord gone's base is just a house.
+._MASK
+>:(voice is muffled a little because
+>:of the gas mask) Welcome to The
+.:House!
+._STELLA
+.:That's it? It's called the house?
+._MASK
+>:(voice is muffled a little because
+.:of the gas mask) Yep
+._STELLA
+>:The first name you thought of was
+.:the house?
+._RIDER
+.:Yes it's called the house!
+.\INT.the house inside
+._KILLER
+.:All on the ground!
+._RIDER
+.:Meet Lord Gone of the life land.
+..We see a man walking in he has a katna on his back.
+._Weeb
+>: (nerdy voice) Ah. Lord Gone is
+>:eating a person right now so your
+>:going to have to wait a bit. Does
+.:any one want to play some 5.0?
+._DEADMAN
+.:What's 5.0?
+._WEEB
+.:(nerdy voice)  D&D 5.0!
+._DEADMAN
+.:What's D&D?
+._STELLA
+.:He means Dungeins&Dragons.
+._DEADMAN
+.:That game is for nerds and weebs.
+._WEEB
+.:(nerdy voice) My name is Weeb.
+._LISA
+.:Well D&D is for him.
+._WEEB
+.:(nerdy voice) So who's in?
+._STELLA
+.:I'll play!
+._LISA
+.:Fine.
+._TOMMY
+.:Oh hi Mark.
+._WEEB
+>:(nerdy voice) I said my name is
+.:Weeb not Mark.
+._TOMMY
+.:Your so funny Mark.
+._WEEB
+.:(nerdy voice) What's with him?
+._LISA
+.:His name is Tommy
+._WEEB
+>:(nerdy voice) You mean like The
+.:Room?
+._LISA
+.:Yes and my name is Lisa.
+._WEEB
+.:(nerdy voice)  I love that movie.
+._DEADMAN
+.:You do?
+._WEEB
+>:(nerdy voice)  Yes but Tommy played
+.:Jonny.
+._PERSON 3
+.:The jokes in this are so bad.
+._DEADMAN
+.:What are you saying.
+._PERSON 3
+.:This sucks.
+._MASK
+>:(voice is muffled a little because
+.:of the gas mask)   What sucks?
+._PERSON 3
+.:This idea you had Mez.
+._MASK
+>:(voice is muffled a little because
+.:of the gas mask) stay in character.
+._PERSON 3
+>:I can't hear you. That gas mask
+>:muffles your voice no one can hear
+.:a word your saying.
+._MASK
+>:(voice is muffled a little because
+.:of the gas mask) Cut.
+._Film crew person 1.
+.:(from of screen) What did you say?
+._MASK
+>:(voice is muffled a little because
+.:of the gas mask) I SAID CUT.
+._FILM CREW PERSON 1.
+>((now in the shot) Did you
+.(say cut?
+>:Mask aka mez takes the gas mask
+.:off.
+._MASK
+.:I said cut.
+._FILM CREW PERSON 1.
+.:Oh.
+._MASK
+.:What the hell is going on person 3
+._PERSON 3
+>:Stop using my character name and
+.:use my real name.
+._MASK
+>:Ok **** why did you have to go and
+.:ruin that shot?
+._PERSON 3
+.:Cause this so dum.
+._MASK
+.:No it's cool
+._PERSON 3
+.:You call this cool?
+._MASK
+.:Yes it's cool.
+._PERSON 3
+>:Well then Mr. Cool? Who is Lord
+.:Gone of the life land?
+._MASK
+>:He's this guy I found at davis
+.:cards and games.
+._PERSON 3
+.:Davis cards and games?
+._MASK
+>:Yes davis cards and games. Now can
+.:we get back to filming?
+._DEADMAN
+.:Sure.
+._MASK
+>:Also were going to shoot us playing
+.:D&D ok?
+._FILM CREW PERSON 1.
+.:Sure.
+._MASK
+.:Now where were we?
+._TOMMY
+>:We were at the part were weeb says 
+.:"Yes but Tommy played Jonny."
+._
+._MASK
+.:Ok start from there.
+._FILM CREW PERSON 1.
+.:Ready! And action!
+._WEEB
+.:Yes but Tommy played Jonny?
+._MASK
+.:Cut! Weeb were is that nerdy voice?
+._WEEB
+.:(nerdy voice)  this better?
+._MASK
+.:Yes. All right were ready to start.
+._FILM CREW PERSON 1.
+.:Ok and action.
+._WEEB
+>:(nerdy voice) Yes but Tommy played
+.:Jonny.
+._Lisa
+.: It's still the room.
+..Cut.
+>.Lisa, Weeb, Mask, Rider,Person 3, Noname, Tommy and stella
+..are siting around a table playing D&D.
+._WEEB
+>:(nerdy voice) You walk into a
+>:garden you see a gazebo. What do
+.:you do?
+._STELLA
+.:I kill it with my sword.
+._WEEB
+>:(nerdy voice)  You want to kill a
+.:gazebo.
+._STELLA
+.:Yes.
+._WEEB
+.:(nerdy voice) But it's a gazebo.
+._MASK
+.:I cast magic missile on the gazebo.
+._WEEB
+>:(nerdy voice) But it's a gazebo
+.:save it for the orcs.
+._LISA
+.:Did it die?
+._WEEB
+>:(nerdy voice) But it can't die it's 
+.:a gazebo.
+._STELLA
+.:That's not fair.
+._WEEB
+.:(nerdy voice) Ok fine you kill it.
+._PERSON 3
+.:I skin it.
+._WEEB
+.:(nerdy voice) But it's a gazebo.
+._PERSON 3
+.:Yes and I skin it.
+._WEEB
+.:(nerdy voice) fine you skin it.
+._KILLER
+.:Lord gone of the life land is here.
+._MASK
+.:And cut. Good job every body.
+._STELLA
+.:But What about your gas mask?
+._MASK
+.:My gas mask? MY GAS MASK.
+._STELLA
+.:Yes your gas mask.
+._MASK
+.:All right let's do that again.
+..Mask put the gas mask on.
+._FILM CREW PERSON 1.
+.:And Action.
+._WEEB
+>:(nerdy voice) You walk into a
+>:garden you see a gazebo. What do
+.:you do?
+._STELLA
+.:I kill it with my sword.
+._WEEB
+>:(nerdy voice)  You want to kill a
+.:gazebo.
+._STELLA
+.:Yes.
+._WEEB
+.:(nerdy voice) But it's a gazebo.
+._MASK
+>: (voice is muffled a little because
+>:of the gas mask) I cast magic
+.:missile on the gazebo.
+._WEEB
+>:(nerdy voice) But it's a gazebo
+.:save it for the orcs.
+._LISA
+.:Did it die?
+._WEEB
+>:(nerdy voice) But it can't die it's 
+.:a gazebo.
+._STELLA
+.:That's not fair.
+._WEEB
+.:(nerdy voice) Ok fine you kill it.
+._PERSON 3
+.:I skin it.
+._WEEB
+.:(nerdy voice) But it's a gazebo.
+._PERSON 3
+.:Yes and I skin it.
+._WEEB
+.:(nerdy voice) fine you skin it.
+._KILLER
+.:Lord gone of the life land is here.
+>.I man with a cape and dried blood covers his mouth. He is
+..also holding a chunk of meat raw.
+._DEADMAN
+.:What's that?
+._Lord gone
+>:This is the flesh of lord bone of
+.:the dead land.
+>.Lord gone takes starts to take a bite out of the flesh cut
+..we hear a bite sound.
+._MATTHEW
+.:Oh god.
+._LORD GONE
+.:What's your name you look familiar.
+._Matthew
+>:My name is Matthew.  Once I was a
+.:cop.
+._Deadman
+.:No you weren't!
+._MATTHEW
+.:As the world fell.
+._DEADMAN
+.:It did?
+._MATTHEW
+>:Each of us in our own way was
+.:broken.
+._MASK
+>:(voice is muffled a little because
+.:of the gas mask) Broken! HA Ha Ha!
+._MATTHEW
+>:It was hard to know who was more
+.:crazy, me or them.
+._MASK
+>:(voice is muffled a little because
+>:of the gas mask) Oh I'm more Cazy!
+.:HA Ha hA.
+._MATTHEW
+>:I am the one who runs from both the
+.:living and the dead.
+._DEADMAN
+>:We're living. Your not running. And
+.:how can you run from the dead?
+._LORD GONE
+.:The living dead of the dead land.
+._MATTHEW
+>:Haunted by the ones I could not
+.:save.
+._DEADMAN
+>:Who could you not save? Well Danny
+.:is dead but who else?
+._MATTHEW
+.:A man with one instinct.  Survive!
+._STELLA
+.:Just stop.
+._LORD GONE
+.:I know you.
+._MASK
+>:(voice is muffled a little because
+.:of the gas mask) You do?
+._LORD GONE
+.:Yes but you look like someone else.
+._MATTHEW
+.:I did?
+._LORD GONE
+>:It's like there is a new actor
+.:playing  Mad Matthew.
+._RIDER
+>:Can you get to the point. Why did
+>:you kill and eat lord bone of the
+.:dead land?
+._LORD GONE
+>:Because he found something that I
+.:want.
+._RIDER
+.:And what might that be?
+._LORD GONE
+.:I time machine!
+._STELLA
+>:(Joking) I boy you found a time
+.:machine!
+._Rider
+>:Even if you had a real time machine
+.:what would you do with it?
+._LORD GONE
+>:I would go back in time stop the
+.:missile from  launching.
+._RIDER
+.:And how are you going to do that?
+._LORD GONE
+>:Ok fine how about I go back and
+>:build a bunker right under this
+>:house and fill it with stuff we
+.:could use.
+._KILLER
+.:Well do you have time thing?
+._LORD GONE
+.:Yes!
+._WEEB
+>:(nerdy voice )  How about we check
+.:if the bunker is under the house.
+.:
+._STELLA
+>:No that can't work.  Cause if we
+>:check it can't be there because if
+>:we check it will create two time
+>:lines one were it was there and one
+.:were it can't be.
+._WEEB
+.((nerdy voice) What?
+.:
+._STELLA
+>:If we find it why would one of us
+.:go back?
+._LORD GONE
+.:No one would go.
+._STELLA
+>:So that means if we had the stuff
+>:in the first place. No one would go
+>:back to make the bunker. So there
+.:would be no bunker.
+._RIDER
+.:Ok.
+._STELLA
+>:Or there would be no bunker because
+>:something stopped one of us from
+>:going back or something stopped us
+.:in the past.
+._Killer
+>:( mind blown)
+&:wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+.:wwwwwwwwwwwwwwwwwwwwwwwhat?
+._LORD GONE
+>:Well, this is a time Anomaly free
+.:time travel machine.
+._STELLA
+>:Ok but can't that break time it's
+.:self?
+._LORD GONE
+.:Yes.
+._STELLA
+.:Ok.
+>.Stella punches lord gone in the face and he falls to the
+..ground.
+._PERSON 3
+.:She just punched him.
+>.Stella punches person 3 in the face and they falls to the
+..ground.
+._RIDER
+>:She just punched that person that I 
+.:don't like.
+..Stella punches rider face and he falls to the ground.
+._KILLER
+.:Stop what you play.
+>.Stella punches killer in the face and he does not fall to
+..the ground he is still standing.
+._KILLER
+.:Ouch-
+>.Stella punches killer six more times in the face he is still
+..standing.
+._STELLA
+.:How?
+._KILLER
+.:That hurt a-
+>.Stella punches killer ten more times in the face he is still
+..standing.
+._KILLER
+.:Lot pain so-
+>.Stella punches killer another ten times in the face killer
+..is still standing.
+._MASK
+>:(voice is muffled A little because
+>:of the gas mask) You know this axe
+.:might hel-
+>.Stella kicks mask in the leg and mask falls to the ground
+..she takes mask's axe.
+._MASK
+>:(voice is muffled a little because
+.:of the gas mask) The pain the pain.
+>.Stella hacks killer with the axe (killer is off screen at
+..this point)
+._KILLER
+.:Pain-
+._STELLA
+.:Why don't you die?
+._KILLER
+>:I can't die the show writer needs
+>:me to be alive later in this
+.:episode.
+._STELLA
+.:Oh come on.
+..Killer now looks at a script.
+._KILLER
+>:Oh wait never mind you have to
+>:knock me out.  So just punch me in
+.:the face.
+._STELLA
+.:But I just did that like 25 times.
+._FILM CREW PERSON 1.
+>((off shot) Stay on
+.(script.
+..Stella punches killer in the face and falls to the ground.
+._STELLA
+.:Ok that's more like it.
+._WEEB
+>((nerdy voice) Good job
+.(that was a-
+..Stella pushes weeb to the ground.
+._WEEB
+>((nerdy voice) don't do
+.(that.
+..Stella hacks weeb with mask's axe.
+._NONAME
+.:You killed him.
+._MATTHEW
+.:Ok lets start running-
+..Stella punches matthew in the chest.
+._NONAME
+.:Nice jo-
+>.Stella punches noname in the chest and they fall to the
+..ground.
+._MASK
+>:(voice is muffled a little because
+>:of the gas mask ) Ha Ha are you
+.:done yet?
+..Stella starts to punch mask.
+._MASK
+>:(voice is muffled a little because
+>:of the gas mask) Wait I know the
+.:bike lock codes.
+._TOMMY
+>:What are the codes tell me the
+.:truth you are my future wife.
+._MASK
+>:(voice is muffled a little because
+>:of the gas mask) What is with him?
+>:And I'm not going to tell you I
+.:want to go with you.
+._LISA
+.:Why?
+._MASK
+>:(voice is muffled a little because
+>:of the gas mask) Cause these guys
+.:suck.
+._DEADMAN
+.:Lets go.
+>.We see that the time thing is on the ground also there is a
+>.bomb. Stella grabs the time thing and mask, stella, dead
+>.man, tommy and Lisa leave the shot. We see a hand grab the
+..bomb.
+.\INT. LORD GONE'S BASE Garage
+..Mask is unlocking five bikes
+._MASK
+>:(voice is muffled a little because
+>:of the gas mask) Ok I unlocked five 
+.:bikes. One for each of us.
+._STELLA
+.:Ok great.
+._DEADMAN
+>:But I got shot in the leg.  I can't
+.:ride one of those.
+._STELLA
+.:Right.
+._MASK
+>:(voice is muffled a little because
+>:of the gas mask)  Well you did take
+>:the time thing so lord gone would
+.:go after you guys when you leave.
+._STELLA
+.:Ok your point.
+._MASK
+>:(voice is muffled a little because
+>:of the gas mask) Well you leave the
+>:guy with the leg here with me.  And
+>:we make it look like you guys
+>:knocked me out. And left the leg
+.:guy behind.
+._STELLA
+.:But how does that get him to us?
+._MASK
+>:(voice is muffled a little because
+>:of the gas mask)  Well lord gone
+>:would take him prisoner. And I
+.:would get things to work out.
+._DEADMAN
+.:Do it.
+>.Stella, Tommy and Lisa take three of the bikes and ride out
+..of the garage.
+>.Lord gone, Rider, Killer, Noname and three other bike riders
+>.enter the garage. Mask is on the ground he does not have his
+..axe.
+._LORD GONE
+.:Mask wake up.
+._MASK
+>:(voice is muffled a little because
+.:of the gas mask)  What?
+._LORD GONE
+.:What happened here.
+._MASK
+>:The girl who knocked you guys out
+>:took my axe. And made me unlock
+.:some bikes for them.
+._LORD GONE
+.:What about him?
+..Lord gone points to dead man.
+._MASK
+>:(voice is muffled a little because
+>:of the gas mask)  They left him
+>:behind. He got shot in the leg
+>:right before we found them on the
+.:hill.
+._LORD GONE
+>:And they would just leave him
+.:behind.
+._MASK
+>:(voice is muffled a little because
+>:of the gas mask)  Yes the girl
+.:knocked out two more of there own.
+._LORD GONE
+.:Yes the in the main room.
+._MASK
+>:(voice is muffled a little because
+>:of the gas mask)  And the girl took
+.:the time thing.
+._LORD GONE
+.:She did what?
+._MASK
+>:(voice is muffled a little because
+>:of the gas mask) She took the time
+.:thing.
+._LORD GONE
+.:Take the mask off.
+..Mask takes his mask of.
+._MASK
+.:The girl took the time thing.
+._LORD GONE
+>((very mad) Ready the
+>(bikes. We will go after
+.(them.
+.(
+._RIDER
+.:But what about the prisoners?
+._LORD GONE
+.:Yes what about the prisoners?
+._MASK
+.:You could take them with us.
+._LORD GONE
+.:Yes will take them with us.
+._NONAME
+.:We should tie them to the bikes.
+.\INT. LORD GONE'S BASE
+>.Six of the bike riders are tieing up person 3, dead man and
+>.matthew. They tie up dead man first then person 3 when it
+>.gets to matthews turn. Matthew pushes one of the riders to
+..the ground. Then he kicks another and runs out of the room.
+.\INT. LORD GONE'S BASE GARAGE
+>.Matthew runs into the garage. Three other riders are working
+>.on so bikes. There are bike parts, tools, Duck tape, fash
+>.lights, a bucket of water, a bike tire and a bottle of bike
+..oil. Matthew runs through  all the stuff.
+._Bike rider 1
+>:Hey! Can't you see were trying to
+.:work here?
+._BIKE RIDER 2
+>:We had the tools right were we
+.:wanted them!
+._MATTHEW
+.:Were is a working bike?
+._BIKE RIDER 3
+.:Right over there.
+>.Bike rider 3 points to a bike and matthew takes it. One bike
+..rider runs in.
+._BIKE RIDER 4
+.:Stop him. He's a prisoner!
+..Bike rider 1 , 2 , 3 and 4 run at matthew and catch him.
+..
+._BIKE RIDER 1
+.:We got you now!
+._BIKE RIDER 2
+.:Yes we do!
+._BIKE RIDER 3
+.:What's this ones name?
+._Matthew
+>:My name is Matthew.  Once I was a
+.:cop.
+._BIKE RIDER 4
+.:Ok?
+._MATTHEW
+.:As the world fell.
+._BIKE RIDER 1
+.:Yes it fell.
+._MATTHEW
+>:Each of us in our own way was
+.:broken.
+._BIKE RIDER 2
+.:What?
+._MATTHEW
+>:It was hard to know who was more
+.:crazy, me or them.
+._BIKE RIDER 3
+.:Ha Ha Ha!
+._MATTHEW
+>:I am the one who runs from both the
+.:living and the dead.
+._BIKE RIDER 2
+>:Yes run from the zombies and the
+.:half-dead.
+._MATTHEW
+>:Haunted by the ones I could not
+.:save.
+._BIKE RIDER 3
+.:Oh who died?   Who died?
+._MATTHEW
+.:A man with one instinct.  Survive!
+._BIKE RIDER 4
+>:And now were going to tie you to
+>:the front of a bike and go after
+.:your friends!
+>.Lord Gone, the rest of the bike riders, Rider, Killer,
+..Noname with Deadman and Person 3.
+._LORD GONE
+>:Now were going to go after them and
+>:it's not about some dum thing. It's
+.:about a time machine!
+._MASK
+.:Can I put the gas mask on?
+._LORD GONE
+>:Sure. Rider go make an army out of
+.:the other lords men.
+._RIDER
+.:Yes my lord.
+._LORD GONE
+.:We ride now!
+._All there
+.((war cry) aahhhhhhhh!
+>:We see a hand holding a guitar pick
+>:in the back ground the other hand
+>:is holding the neck of bass (like
+>:back to the future). Bass music
+.:playing.
+._NONAME
+.:How long is this chase going to be?
+._KILLER
+.:Not sure.
+._NONAME
+.:Oh.
+._KILLER
+.:Wait.
+._NONAME
+.:What?
+..Killer is now holding a paper script.
+._KILLER
+>:Well there's two more pages in the
+.:script.
+._NONAME
+.:Were did you get that?
+._KILLER
+.:Found it on that table over there.
+._NONAME
+.:Wait were in a script?
+._KILLER
+.:Yes.
+._FILM CREW PERSON 1.
+.:Stay on script.
+._NONAME
+.:Who's that?
+._KILLER
+.:Their on the film crew.
+._NONAME
+.:We have a film crew?
+._KILLER
+>:Yes we do.  How else are we going
+.:to film the show?
+._NONAME
+.:Were in a show?
+._KILLER
+.:Yes.
+._NONAME
+.:Oh god, were in a show.
+._KILLER
+.:Yes were in a show.
+._NONAME
+>:Well how do you know we have two
+.:pages left?
+._KILLER
+>:Well were on page 26 right now and
+.:the script has 28 pages.
+._NONAME
+>:Ok.  Can you give that script to
+.:me?
+._KILLER
+.:Sure.
+..Killer hands Noname the script.
+._NONAME
+>:I was thinking if we have the
+>:script we could see if we catch
+.:them or not.
+..Noname reads starts reading the rest of the script.
+._KILLER
+.:Well what does it say?
+._NONAME
+.:Oh god, oh god.
+._KILLER
+.:What?
+._NONAME
+>:Everything we just said was in the
+.:script.
+._KILLER
+.:So?
+._NONAME
+.:And some of us die.
+._KILLER
+.:Oh god.
+._NONAME
+>:Are there any more scripts over
+.:there?
+._KILLER
+>:Yes there's a scripts for nine more
+.:episodes.
+._NONAME
+.:Take them all.
+._KILLER
+.:Ok.
+._NONAME
+.:Now hand them to me.
+._KILLER
+.:Ok.
+..Killer hands them to Noname.
+._NONAME
+.:All right!
+..Noname rides away.
+._LORD GONE
+.:Killer what was that about?
+._KILLER
+.:Ah?
+._LORD GONE
+.:Let's ride!
+..CUT: to field.
+._STELLA
+.:How long do you guys need to rest?
+._LISA
+.:Were tiered.
+._STELLA
+.:We have been biking for Six pages.
+._TOMMY
+>:Why? Why? Why is this happening to
+.:me?
+._STELLA
+.:Oh come on.
+._LISA
+.:Look it that guy with the mask.
+._STELLA
+.:And he has dead man.
+._LISA
+.:Wait his name is dead man?
+._STELLA
+.:Yes.
+._DEADMAN
+.:Hi guys!
+._STELLA
+.:How did you get he so fast?
+._DEADMAN
+>:Well you know the screen writer
+>:just thought that tying actors to
+.:bikes was a bad idea.
+._STELLA
+.:Ok great.
+._DEADMAN
+>:And to save time the war party is
+.:right behind us.
+._STELLA
+.:Oh god.
+._MASK
+>((mask off)  And I am here
+>(too and there is a
+>(bigger war party on the
+.(way!
+.:
+._LISA
+.:Oh no!
+>.The war party looks like mad max fury road but with bikes
+>.and no cars. We see them riding for a bit and then the
+..screen goes black and the words next episode come up.
+._THe eNd.
