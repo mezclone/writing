@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:1076
-Cursor/Column:3
+Cursor/Line:952
+Cursor/Column:0
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -292,7 +292,7 @@ Words/12:weebs
 >.guy's head. Mask swings his axe down and we hear a load
 ..crack.
 ._MASK
->: Oh boy! That broke his skull right
+>:Oh boy! That broke his skull right
 .:open! Ha! Ha!
 >.He tries to take his axe out of the guys head. ( body has
 ..been off screen the hole time) He is having trouble.
@@ -327,7 +327,7 @@ Words/12:weebs
 >.keeps firing until we hear a clicking sound. Mask drops the
 ..dead body of Person 1.
 ._MASK
->: Well your out of ammo too. And how
+>:Well your out of ammo too. And how
 .:did you guys get so many AKs?
 >.Mask runs at Person 2 and kick them to the ground. He the
 >.picks up his shot gun and shoots Person 2 in the chest the
@@ -335,19 +335,19 @@ Words/12:weebs
 ._Noname
 .:Mask you done?
 ._MASK
-.: Yes. Lets see these prisoners!
+.:Yes. Lets see these prisoners!
 >.Everyone mask didn't kill have been taken prisoner by the
 >.bike riders. There are eight prisoners Tommy, Stella,Lisa,
 ..Matthew, Deadman, Person 3 and Person 4.
 ._MASK
->: Now tell me how does it come to be
+>:Now tell me how does it come to be
 >:that twelve people in new cloths
 >:and with new weapons and some with 
 .:Aks?
 ._Person 4
 .:And why should we tell you?
 ._Mask
->: Cause Killer here is going to kill
+>:Cause Killer here is going to kill
 .:you!
 ._Killer
 .:That's right!
@@ -361,13 +361,13 @@ Words/12:weebs
 ._KILLER
 .:Yes?
 ._MASK
-.: Killer kill this person!
+.:Killer kill this person!
 ._KILLER
 .:Ok!
 >.Killer takes out a knife and stabs person 4 in the heart
 ..they fall dead.
 ._MASK
-.: Now tell why your here?
+.:Now tell why your here?
 ._Person 3
 >:Cause some rich jerk dropped us out
 >:of a plane and gave us map with
@@ -378,7 +378,7 @@ Words/12:weebs
 ._PERSON 3
 .:In a six days!
 ._MASK
-.: Is this true?
+.:Is this true?
 ._LISA
 .:It's true!
 ._NONAME
@@ -424,17 +424,17 @@ Words/12:weebs
 >:It was hard to know who was more
 .:crazy, me or them.
 ._MASK
-.: Me! Ha! Ha!
+.:Me! Ha! Ha!
 ._DEADMAN
 .:Stop the monologue!
 ._STELLA
 .:Stop saying, "Stop the monologue!"
 ._MASK
-.: We ride now!
+.:We ride now!
 ._RIDER
 .:But how do we move them?
 ._MASK
-.: They will run with us!
+.:They will run with us!
 ._RIDER
 .:What stops them from running?
 ._NONAME
@@ -447,12 +447,12 @@ Words/12:weebs
 ._DEADMAN
 .:Hey mask man!
 ._MASK
-.:   What?
+.:What?
 ._DEADMAN
 >:Are you in command over all of the
 .:rides?
 ._MASK
->: Only Noname and Killer everyone
+>:Only Noname and Killer everyone
 >:else is a rider of Lord Gone of the
 .:life lands!
 ._DEADMAN
@@ -477,11 +477,11 @@ Words/12:weebs
 .\EXT. Lord gone's base
 ..Lord gone's base is just a house.
 ._MASK
-.: Welcome to The House!
+.:Welcome to The House!
 ._STELLA
 .:That's it? It's called the house?
 ._MASK
-.: Yep.
+.:Yep.
 ._STELLA
 >:The first name you thought of was
 .:the house?
@@ -494,14 +494,14 @@ Words/12:weebs
 .:Meet Lord Gone of the life land.
 ..We see a man walking in he has a katna on his back.
 ._Weeb
->: (nerdy voice) Ah. Lord Gone is
+>:(nerdy voice) Ah. Lord Gone is
 >:eating a person right now so your
 >:going to have to wait a bit. Does
 .:any one want to play some 5.0?
 ._DEADMAN
 .:What's 5.0?
 ._WEEB
-.:  D&D 5.0!
+.:D&D 5.0!
 ._DEADMAN
 .:What's D&D?
 ._STELLA
@@ -509,11 +509,11 @@ Words/12:weebs
 ._DEADMAN
 .:That game is for nerds and weebs.
 ._WEEB
-.: My name is Weeb.
+.:My name is Weeb.
 ._LISA
 .:Well D&D is for him.
 ._WEEB
-.: So who's in?
+.:So who's in?
 ._STELLA
 .:I'll play!
 ._LISA
@@ -521,23 +521,23 @@ Words/12:weebs
 ._TOMMY
 .:Oh hi Mark.
 ._WEEB
-.: I said my name is Weeb not Mark.
+.:I said my name is Weeb not Mark.
 ._TOMMY
 .:Your so funny Mark.
 ._WEEB
-.: What's with him?
+.:What's with him?
 ._LISA
 .:His name is Tommy
 ._WEEB
-.: You mean like The Room?
+.:You mean like The Room?
 ._LISA
 .:Yes, and my name is Lisa.
 ._WEEB
-.: I love that movie.
+.:I love that movie.
 ._DEADMAN
 .:You do?
 ._WEEB
-.:  Yes but Tommy played Jonny.
+.:Yes but Tommy played Jonny.
 ._PERSON 3
 .:The jokes in this are so bad.
 ._DEADMAN
@@ -545,7 +545,7 @@ Words/12:weebs
 ._PERSON 3
 .:This sucks.
 ._MASK
-.: What sucks?
+.:What sucks?
 ._PERSON 3
 .:This idea you had Mez.
 ._MASK
@@ -631,37 +631,37 @@ Words/12:weebs
 >.Lisa, Weeb, Mask, Rider,Person 3, Noname, Tommy and Stella
 ..are siting around a table playing D&D.
 ._WEEB
->: You walk into a garden you see a
+>:You walk into a garden you see a
 .:gazebo. What do you do?
 ._STELLA
 .:I kill it with my sword.
 ._WEEB
-.:  You want to kill a gazebo.
+.:You want to kill a gazebo.
 ._STELLA
 .:Yes.
 ._WEEB
-.: But it's a gazebo.
+.:But it's a gazebo.
 ._MASK
 .:I cast magic missile on the gazebo.
 ._WEEB
->: But it's a gazebo save it for the
+>:But it's a gazebo save it for the
 .:orcs.
 ._LISA
 .:Did it die?
 ._WEEB
-.: But it can't die it's  a gazebo.
+.:But it can't die it's  a gazebo.
 ._STELLA
 .:That's not fair.
 ._WEEB
-.: Ok fine you kill it.
+.:Ok fine you kill it.
 ._PERSON 3
 .:I skin it.
 ._WEEB
-.: But it's a gazebo.
+.:But it's a gazebo.
 ._PERSON 3
 .:Yes and I skin it.
 ._WEEB
-.: fine you skin it.
+.:fine you skin it.
 ._KILLER
 .:Lord gone of the life land is here.
 ._MASK
@@ -678,12 +678,12 @@ Words/12:weebs
 ._FILM CREW PERSON 1.
 .:And Action.
 ._WEEB
->: You walk into a garden you see a
+>:You walk into a garden you see a
 .:gazebo. What do you do?
 ._STELLA
 .:I kill it with my sword.
 ._WEEB
-.: You want to kill a gazebo.
+.:You want to kill a gazebo.
 ._STELLA
 .:Yes.
 ._WEEB
@@ -695,16 +695,16 @@ Words/12:weebs
 >(I cast magic missile on
 .(the gazebo.
 ._WEEB
->: But it's a gazebo save it for the
+>:But it's a gazebo save it for the
 .:orcs.
 ._LISA
 .:Did it die?
 ._WEEB
-.: But it can't die it's  a gazebo.
+.:But it can't die it's  a gazebo.
 ._STELLA
 .:That's not fair.
 ._WEEB
-.: Ok fine you kill it.
+.:Ok fine you kill it.
 ._PERSON 3
 .:I skin it.
 ._WEEB
@@ -741,12 +741,12 @@ Words/12:weebs
 >:Each of us in our own way was
 .:broken.
 ._MASK
-.: Broken! HA Ha Ha!
+.:Broken! HA Ha Ha!
 ._MATTHEW
 >:It was hard to know who was more
 .:crazy, me or them.
 ._MASK
-.: Oh I'm more Cazy! Ha Ha Ha.
+.:Oh I'm more Cazy! Ha Ha Ha.
 ._MATTHEW
 >:I am the one who runs from both the
 .:living and the dead.
@@ -768,7 +768,7 @@ Words/12:weebs
 ._LORD GONE
 .:I know you.
 ._MASK
-.: You do?
+.:You do?
 ._LORD GONE
 .:Yes but you look like someone else.
 ._MATTHEW
@@ -836,7 +836,7 @@ Words/12:weebs
 >:going back or something stopped us
 .:in the past.
 ._Killer
->:( mind blown)
+.(( mind blown)
 &:wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 .:wwwwwwwwwwwwwwwwwwwwwwwhat?
 ._LORD GONE
@@ -902,17 +902,17 @@ Words/12:weebs
 .:the face.
 ._STELLA
 .:But I just did that like 25 times.
-._FILM CREW PERSON 1.
->((off shot) Stay on
-.(script.
+._FILM CREW PERSON 1
+.((off shot)
+.:Stay on script.
 ..Stella punches Killer in the face and falls to the ground.
 ._STELLA
 .:Ok that's more like it.
 ._WEEB
-.( Good job that was a-
+.:Good job that was a-
 ..Stella pushes Weeb to the ground.
 ._WEEB
-.( Don't do that.
+.:Don't do that.
 ..Stella hacks Weeb with mask's axe.
 ._NONAME
 .:You killed him.
@@ -924,21 +924,21 @@ Words/12:weebs
 >.Stella punches Noname in the chest and they fall to the
 ..ground.
 ._MASK
-.: Man, that was dark.
+.:Man, that was dark.
 ..Stella starts to punch Mask.
 ._MASK
-.: Wait, I know the bike lock codes.
+.:Wait, I know the bike lock codes.
 ._TOMMY
 >:What are the codes? Tell me the
 .:truth, you are my future wife.
 ._MASK
->: What is with him? And I'm not
->:going to tell you, cause I want to
-.:go with you.
+>:What is with him? And I'm not going
+>:to tell you, cause I want to go
+.:with you.
 ._LISA
 .:Why?
 ._MASK
-.: Cause these guys suck.
+.:Cause these guys suck.
 ._DEADMAN
 .:Lets go.
 >.We see that the time thing is on the ground also there is a
@@ -948,7 +948,7 @@ Words/12:weebs
 .\ext. LORD GONE'S BASE Garage
 ..Mask is unlocking five bikes
 ._MASK
->: Ok I unlocked five  bikes. One for
+>:Ok I unlocked five  bikes. One for
 .:each of us.
 ._STELLA
 .:Ok great.
@@ -958,33 +958,33 @@ Words/12:weebs
 ._STELLA
 .:Right.
 ._MASK
->: Well you did take the time thing
->:so lord gone would go after you
-.:guys when you leave.
+>:Well you did take the time thing so
+>:lord gone would go after you guys
+.:when you leave.
 ._STELLA
 .:Ok your point.
 ._MASK
->: Well you leave the guy with the
->:leg here with me.  And we make it
->:look like you guys knocked me out.
-.:And left the leg guy behind.
+>:Well you leave the guy with the leg
+>:here with me.  And we make it look
+>:like you guys knocked me out. And
+.:left the leg guy behind.
 ._STELLA
 .:But how does that get him to us?
 ._MASK
->: Well lord gone would take him
+>:Well lord gone would take him
 >:prisoner. And I would get things to
 .:work out.
 ._DEADMAN
 .:Do it.
 >.Stella, Tommy and Lisa take three of the bikes and ride out
 ..of the garage.
->.Lord gone, Rider, Killer, Noname and three other bike riders
+>.Lord Gone, Rider, Killer, Noname and three other bike riders
 >.enter the garage. Mask is on the ground he does not have his
 ..axe.
 ._LORD GONE
 .:Mask wake up.
 ._MASK
-.:  What?
+.:What?
 ._LORD GONE
 .:What happened?
 ._MASK
@@ -995,7 +995,7 @@ Words/12:weebs
 .:What about him?
 ..Lord Gone points to Dead Man.
 ._MASK
->:  They left him behind. He got shot
+>:They left him behind. He got shot
 >:in the leg right before we found
 .:them on the hill.
 ._LORD GONE
